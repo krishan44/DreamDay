@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroots\" />
+    <Folder Include="Views\Couples\" />
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Vendors\" />
+    <Folder Include="Views\WeddingPlanner\" />
+  </ItemGroup>
+
 </Project>
